@@ -17,8 +17,9 @@ p {
 ul {
     line-height: 40px
 }
-<style>
-    body {
-        background-image: url;('african girl.jpg')
-    }
-</style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
