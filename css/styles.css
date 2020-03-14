@@ -35,3 +35,14 @@ ul {
 .growth {
     background-color:#F9CFC7
 }
+.test-box {
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color:#CC8C80;
+}
